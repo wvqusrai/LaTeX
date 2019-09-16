@@ -1,4 +1,4 @@
 # LaTeX
 ## standalone LaTeX class with math:
--[x] ref.tex
+- [x] ref.tex
 An example of *Row Echelon Form* Matrix
